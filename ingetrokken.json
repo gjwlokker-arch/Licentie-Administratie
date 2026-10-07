@@ -1,8 +1,6 @@
 {
  "v": 1,
- "updated": "2026-10-07T09:48:33.420Z",
- "revoked": [
-  "FFA-2026-0001"
- ],
- "sig": "nCciOVHFc0ENAKwD82Z+gBiHMKPZBUrMgIPkAs08XJciAM2PFDo1Fmsg7w+jZXa7WLL1ZnK3MoFwTKpwS7AWsg=="
+ "updated": "2026-10-07T09:54:02.095Z",
+ "revoked": [],
+ "sig": "RPXqNDJ89pSwYxC32eW2ayR6nXucw39WTLkjWNUAwQTa/y7hX9EQZWf7g3SQaAKZVvMn7CyeIJ9Cyl73+1r19A=="
 }
